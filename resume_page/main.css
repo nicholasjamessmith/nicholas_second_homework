@@ -1,10 +1,16 @@
 h1 {
   color: grey;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
 }
 
 h2 {
   color: slategray
+}
+
+h3 {
+  color: darkblue;
+  background-color: lightgoldenrodyellow;
 }
 
 ul {
@@ -14,5 +20,8 @@ ul {
 }
 
 body {
-  align-content: center;
+  margin: top 20%;
+  margin-right: 20%;
+  margin-bottom: 20%;
+  margin-left: 20%;
 }
