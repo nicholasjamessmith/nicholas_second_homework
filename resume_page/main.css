@@ -1,0 +1,14 @@
+h1 {
+  color: grey;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2 {
+  color: slategray
+}
+
+ul {
+  list-style: none;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: coral;
+}
