@@ -13,10 +13,14 @@ h3 {
   background-color: lightgoldenrodyellow;
 }
 
-ul {
-  list-style: none;
+div.first_list {
+  display: inline;
+}
+
+div.second_list {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   background-color: coral;
+  list-style-type: none;
 }
 
 body {
